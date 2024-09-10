@@ -2,44 +2,42 @@
   "awards": [
     {
       "name": "Nothing",
-      "count": 8,
-      "backgroundColor": "grey",
+      "count": 10,
       "textColor": "black"
     },
     {
       "name": "Cola",
-      "count": 2,
-      "backgroundColor": "red",
+      "count": 3,
       "textColor": "black"
     },
     {
       "name": "Coffee",
-      "count": 2,
-      "backgroundColor": "brown",
+      "count": 3,
       "textColor": "black"
     },
     {
       "name": "Nice Breakfast",
       "count": 1,
-      "backgroundColor": "green",
       "textColor": "black"
     },
     {
       "name": "Game",
       "count": 1,
-      "backgroundColor": "blue",
       "textColor": "black"
     },
     {
       "name": "Clothing",
       "count": 1,
-      "backgroundColor": "orange",
       "textColor": "black"
     },
     {
-      "name": "Corona Beer",
+      "name": "No dishes",
       "count": 1,
-      "backgroundColor": "yellow",
+      "textColor": "black"
+    },
+    {
+      "name": "Pick a movie",
+      "count": 1,
       "textColor": "black"
     }
   ]

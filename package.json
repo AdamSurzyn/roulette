@@ -1,5 +1,6 @@
 {
   "name": "roulette",
+  "homepage": "https://adamsurzyn.github.io/roulette",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

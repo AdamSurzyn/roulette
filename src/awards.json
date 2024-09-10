@@ -1,0 +1,44 @@
+{
+  "awards": [
+    {
+      "name": "Nothing",
+      "count": 10,
+      "textColor": "black"
+    },
+    {
+      "name": "Cola",
+      "count": 3,
+      "textColor": "black"
+    },
+    {
+      "name": "Coffee",
+      "count": 3,
+      "textColor": "black"
+    },
+    {
+      "name": "Nice Breakfast",
+      "count": 1,
+      "textColor": "black"
+    },
+    {
+      "name": "Game",
+      "count": 1,
+      "textColor": "black"
+    },
+    {
+      "name": "Clothing",
+      "count": 1,
+      "textColor": "black"
+    },
+    {
+      "name": "No dishes",
+      "count": 1,
+      "textColor": "black"
+    },
+    {
+      "name": "Pick a movie",
+      "count": 1,
+      "textColor": "black"
+    }
+  ]
+}

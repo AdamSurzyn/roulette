@@ -1,0 +1,46 @@
+{
+  "awards": [
+    {
+      "name": "Nothing",
+      "count": 8,
+      "backgroundColor": "grey",
+      "textColor": "black"
+    },
+    {
+      "name": "Cola",
+      "count": 2,
+      "backgroundColor": "red",
+      "textColor": "black"
+    },
+    {
+      "name": "Coffee",
+      "count": 2,
+      "backgroundColor": "brown",
+      "textColor": "black"
+    },
+    {
+      "name": "Nice Breakfast",
+      "count": 1,
+      "backgroundColor": "green",
+      "textColor": "black"
+    },
+    {
+      "name": "Game",
+      "count": 1,
+      "backgroundColor": "blue",
+      "textColor": "black"
+    },
+    {
+      "name": "Clothing",
+      "count": 1,
+      "backgroundColor": "orange",
+      "textColor": "black"
+    },
+    {
+      "name": "Corona Beer",
+      "count": 1,
+      "backgroundColor": "yellow",
+      "textColor": "black"
+    }
+  ]
+}

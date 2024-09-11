@@ -1,8 +1,13 @@
 {
   "awards": [
     {
-      "name": "Nothing",
-      "count": 10,
+      "name": "Icecream",
+      "count": 1,
+      "textColor": "black"
+    },
+    {
+      "name": "Play-The-Game",
+      "count": 11,
       "textColor": "black"
     },
     {

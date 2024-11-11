@@ -6,27 +6,17 @@
       "textColor": "black"
     },
     {
-      "name": "Play-The-Game",
-      "count": 11,
-      "textColor": "black"
-    },
-    {
       "name": "Cola",
-      "count": 3,
+      "count": 5,
       "textColor": "black"
     },
     {
       "name": "Coffee",
-      "count": 3,
+      "count": 5,
       "textColor": "black"
     },
     {
       "name": "Nice Breakfast",
-      "count": 1,
-      "textColor": "black"
-    },
-    {
-      "name": "Game",
       "count": 1,
       "textColor": "black"
     },
@@ -43,6 +33,21 @@
     {
       "name": "Pick a movie",
       "count": 1,
+      "textColor": "black"
+    },
+    {
+      "name": "Watch yt",
+      "count": 4,
+      "textColor": "black"
+    },
+    {
+      "name": "Croissant",
+      "count": 2,
+      "textColor": "black"
+    },
+    {
+      "name": "Sweets",
+      "count": 2,
       "textColor": "black"
     }
   ]
